@@ -56,7 +56,7 @@
 
 <div class="sidebar">
     <h5>Task Management</h5>
-    <a href="index.php">Dashboard</a>
+    <a href="dashboard.php">Dashboard</a>
     <a href="add_task.php">Add Task</a>
     <a href="report.php">Reports</a>
     <a href="calendar.php">Calendar</a>
