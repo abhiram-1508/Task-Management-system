@@ -14,7 +14,7 @@
     <aside style="width: 240px; background: linear-gradient(135deg, #667eea, #764ba2); min-height: 100vh;" class="text-white p-4">
         <h4 class="mb-4 text-center"> Task Manager</h4>
       <ul class="nav flex-column gap-3">
-    <li><a href="index.php" class="nav-link text-white fw-bold">Dashboard</a></li>
+    <li><a href="dashboard.php" class="nav-link text-white fw-bold">Dashboard</a></li>
     <li><a href="add_task.php" class="nav-link text-white fw-bold">+ Add Task</a></li>
     <li><a href="calendar.php" class="nav-link text-white fw-bold">Calendar</a></li>
     <li><a href="report.php" class="nav-link text-white fw-bold">Reports</a></li>
