@@ -69,15 +69,7 @@
                     <input type="email" class="form-control" placeholder="Enter new email">
                 </div>
 
-                <div class="mb-3">
-                    <label class="form-label">Theme</label>
-                    <select class="form-select">
-                        <option>Light (Default)</option>
-                        <option>Dark Mode</option>
-                        <option>Baby Pink</option>
-                        <option>Rainbow</option>
-                    </select>
-                </div>
+            
 
                 <div class="mb-3">
                     <label class="form-label">Notification Preferences</label>
